@@ -39,6 +39,12 @@ a {
   max-width: 600px;
 }
 
+.source-text {
+  margin: 40px auto;
+  padding: auto;
+  max-width: 600px;
+}
+
 .row {
   margin: 10px;
 }
